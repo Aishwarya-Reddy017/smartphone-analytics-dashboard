@@ -19,4 +19,4 @@ The dashboard includes **KPIs, charts, and filters** to compare brands like Appl
 Power BI | DAX | Data Modeling | Data Visualization 🚀📊
 
 ###  Project Link
-[PASTE GITHUB LINK HERE]
+[[PASTE GITHUB LINK HERE](https://github.com/Aishwarya-Reddy017/smartphone-analytics-dashboard.git)]
